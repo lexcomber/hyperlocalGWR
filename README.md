@@ -1,6 +1,6 @@
 # Hyper-local GWR
 The code and data in this repository are for the GW-ELNR simulation study described in the _Journal of Journal of Spatial
-Information Science_ submission. The code is described in the file `Comber_hyperlocal.R`. To run the simulation data you will need to download the zip file from this repository and unzip the files to a directory of your choice. This should then be set as the working directory in R using the `setwd()` function. 
+Information Science_ submission. The code is described in the file `Comber_hyperlocal.R`. To run the code, save the `.R` file locally and run it. You will need an internet connection to access the data in this repository. Note that the hyperlocal code (lines 245 to 440) will take about 40 minutes to run . You could run this, save the outputs and load these in when you are experimenting (as in lines 441 and 442). Have fun!
 
 Please contact Lex Comber [a.comber@leeds.ac.uk](a.comber@leeds.ac.uk) if you have any questions.
 
